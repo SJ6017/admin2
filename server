@@ -1,11 +1,12 @@
-	z.com 
-  account: Z53925502
+z.com 
+
+account: Z53925502
   
-  user: cp822486
-  pw: P@ssw0rd
+user: cp822486
+pw: P@ssw0rd
   
-  cPanel login
-  	 https://cpanel03wh.tyo1.cloud.z.com:2083/
+cPanel login
+https://cpanel03wh.tyo1.cloud.z.com:2083/
      
-  mail login
-     https://cpanel03wh.tyo1.cloud.z.com:2096/
+mail login
+https://cpanel03wh.tyo1.cloud.z.com:2096/
